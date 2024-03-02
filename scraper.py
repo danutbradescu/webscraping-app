@@ -63,9 +63,9 @@ def scrape_to_csv(file_path, output_path='contact_info.csv', log_func=None):
         url = f'https://www.{domain}' if not domain.startswith('http://') and not domain.startswith('https://') else domain
         message = f"Scraping {url}"
         if log_func:
-            log_func(message)  # Use the logging function if provided
+            log_func(message) 
         else:
-            print(message)  # Fallback to print if no logging function is provided
+            print(message)  
         soup = scrape_website(url)
         if soup:
             contact_info = find_contact_info(soup)
