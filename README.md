@@ -1,7 +1,7 @@
 # webscraping-app
 
 # Aplicatia este facuta sa extraga din file precum "parquet" 
-# informatii de contact și, în final, le salveaza intr un folder csv dupa finalizarea tuturor website urilor.
+# informatii de contact și, în final, le salveaza intr un fisier tip csv dupa finalizarea tuturor website urilor.
 ----------------------------------------------
 # Utilitati importante ale aplicatiei: 
 
