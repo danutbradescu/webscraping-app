@@ -1,17 +1,17 @@
 # webscraping-app
 
-# Aplicatia este facuta sa extraga din file precum "parquet" 
-# informatii de contact și, în final, le salveaza intr un fisier tip csv dupa finalizarea tuturor website urilor.
+Aplicatia este facuta sa extraga din file precum "parquet" 
+informatii de contact și, în final, le salveaza intr un fisier tip csv dupa finalizarea tuturor website urilor.
 ----------------------------------------------
 # Utilitati importante ale aplicatiei: 
 
-# Extragerea de Date pentru Analize
-# se poate modifica sau extraga diferite date importante de pe website uri
-# Monitorizare
-# Web scraping poate fi utilizat pentru a automatiza procesele
-# Colectare a informațiilor care altfel ar necesita timp și efort manual. 
-# Acest lucru poate crește eficiența și reduce erorilor umane.
-
+ Extragerea de Date pentru Analize
+ se poate modifica sau extraga diferite date importante de pe website uri
+ Monitorizare
+ Web scraping poate fi utilizat pentru a automatiza procesele
+ Colectare a informațiilor care altfel ar necesita timp și efort manual. 
+ Acest lucru poate crește eficiența și reduce erorilor umane.
+----------------------------------------------
 
 # Aplicatia este beta, pot fi adaugate foarte multe functionalitati precum:
 - un nou GUI modificat cu mai multe functionalitati
